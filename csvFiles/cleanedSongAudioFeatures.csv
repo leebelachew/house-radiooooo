@@ -1,0 +1,681 @@
+Title,Artist,Popularity,Energy,Danceability,Positiveness,Speechiness,Liveness,Acousticness,Instrumentalness,Tempo
+French Kiss,Lil’ Louis,0.9,0.88,0.89,0.7,0.06,0.3,0.12,0.0,0.9
+Voodoo Ray,A Guy Called Gerald,0.85,0.83,0.86,0.75,0.04,0.25,0.2,0.0,0.85
+Pacific State,808 State,0.88,0.82,0.84,0.78,0.05,0.2,0.18,0.0,0.88
+Jack Your Body,Steve “Silk” Hurley,0.92,0.87,0.88,0.8,0.05,0.22,0.1,0.0,0.91
+Move Your Body,Marshall Jefferson,0.94,0.9,0.9,0.82,0.05,0.28,0.1,0.0,0.93
+Big Fun,Inner City,0.93,0.89,0.91,0.8,0.05,0.25,0.1,0.0,0.92
+Ride on Time,Black Box,0.96,0.91,0.92,0.85,0.05,0.3,0.1,0.0,0.95
+Show Me Love,Robin S,0.95,0.9,0.93,0.88,0.04,0.2,0.1,0.0,0.94
+Strings of Life,Derrick May,0.9,0.87,0.89,0.79,0.05,0.3,0.15,0.0,0.91
+Rhythm Is a Dancer,SNAP!,0.94,0.9,0.92,0.84,0.05,0.25,0.1,0.0,0.93
+One More Time,Daft Punk,0.97,0.92,0.94,0.9,0.05,0.3,0.1,0.0,0.96
+Porcelain,Moby,0.9,0.8,0.78,0.85,0.04,0.22,0.4,0.0,0.83
+Born Slippy (Nuxx),Underworld,0.94,0.91,0.91,0.88,0.05,0.3,0.1,0.0,0.94
+Natural Blues,Moby,0.88,0.8,0.76,0.84,0.04,0.2,0.35,0.0,0.82
+Galvanize,The Chemical Brothers,0.93,0.91,0.89,0.87,0.06,0.25,0.2,0.0,0.92
+Out Of Space,The Prodigy,0.9,0.88,0.87,0.86,0.05,0.3,0.15,0.0,0.91
+Groove Is in the Heart,Deee-Lite,0.95,0.92,0.93,0.9,0.04,0.2,0.1,0.0,0.94
+100% Pure Love,Crystal Waters,0.93,0.9,0.92,0.88,0.04,0.25,0.12,0.0,0.92
+Everybody Everybody,Black Box,0.92,0.89,0.9,0.87,0.05,0.25,0.1,0.0,0.91
+Vogue,Madonna,0.94,0.9,0.92,0.86,0.05,0.2,0.1,0.0,0.93
+Harder Better Faster Stronger,Daft Punk,0.96,0.92,0.91,0.89,0.05,0.3,0.1,0.0,0.95
+Sweet Disposition,The Temper Trap,0.92,0.9,0.89,0.88,0.04,0.22,0.15,0.0,0.91
+The Weekend,Michael Gray,0.91,0.89,0.9,0.87,0.05,0.25,0.1,0.0,0.91
+Heads Will Roll,Yeah Yeah Yeahs,0.93,0.9,0.91,0.85,0.05,0.28,0.1,0.0,0.93
+Bulletproof,La Roux,0.94,0.91,0.92,0.87,0.05,0.25,0.12,0.0,0.92
+World Hold On,Bob Sinclar,0.9,0.88,0.87,0.84,0.05,0.3,0.15,0.0,0.91
+Tell Me Why,Supermode,0.9,0.87,0.88,0.85,0.05,0.25,0.12,0.0,0.9
+Let Me Think About It,Ida Corr,0.94,0.91,0.92,0.89,0.05,0.22,0.1,0.0,0.93
+My My My,Armand Van Helden,0.92,0.89,0.9,0.86,0.05,0.25,0.1,0.0,0.92
+Memories,David Guetta,0.95,0.92,0.94,0.9,0.05,0.2,0.1,0.0,0.94
+Chunky,Format:B,0.9,0.88,0.87,0.85,0.05,0.3,0.15,0.0,0.91
+Spectrum,Zedd,0.94,0.91,0.92,0.9,0.05,0.2,0.1,0.0,0.93
+Talk To Me You’ll Understand,Ross from Friends,0.87,0.8,0.78,0.83,0.05,0.22,0.4,0.0,0.82
+Bounce,Calvin Harris,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Techno Disco Tool,Mella Dee,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.91
+Go Bang,PNAU,0.92,0.9,0.91,0.87,0.05,0.25,0.1,0.0,0.91
+Vision,Palace,0.9,0.87,0.88,0.85,0.05,0.22,0.12,0.0,0.9
+My Love,Route 94,0.95,0.92,0.94,0.88,0.05,0.2,0.1,0.0,0.94
+The Days,Chrystal,0.9,0.88,0.87,0.86,0.05,0.3,0.1,0.0,0.91
+So Hooked On Your Lovin,Selace,0.92,0.9,0.91,0.85,0.05,0.22,0.1,0.0,0.93
+Your Love,The Outfield,0.88,0.85,0.82,0.7,0.04,0.25,0.2,0.0,0.87
+Pump Up The Jam,Technotronic,0.92,0.9,0.9,0.78,0.05,0.22,0.12,0.0,0.91
+Don’t You Want Me,The Human League,0.9,0.87,0.88,0.8,0.04,0.2,0.18,0.0,0.89
+Sweet Dreams (Are Made Of This),Eurythmics,0.94,0.91,0.92,0.85,0.04,0.2,0.1,0.0,0.93
+Somebody’s Watching Me,Rockwell,0.89,0.85,0.84,0.76,0.04,0.25,0.2,0.0,0.88
+Bring The Noise,Public Enemy,0.9,0.89,0.86,0.75,0.06,0.3,0.15,0.0,0.9
+Take Me Up,Ralphi Rosario,0.91,0.88,0.89,0.77,0.05,0.28,0.1,0.0,0.91
+It’s a War,Kano,0.88,0.87,0.85,0.74,0.05,0.25,0.2,0.0,0.89
+Push It (Again),Salt-N-Pepa,0.94,0.9,0.91,0.83,0.05,0.3,0.1,0.0,0.93
+Never Let Me Down Again,Depeche Mode,0.93,0.9,0.89,0.82,0.05,0.25,0.15,0.0,0.92
+Pasilda,Afro Medusa,0.94,0.9,0.92,0.84,0.05,0.3,0.1,0.0,0.93
+You Don’t Know Me,Armand Van Helden,0.95,0.91,0.93,0.88,0.04,0.22,0.12,0.0,0.94
+Music Sounds Better With You,Stardust,0.96,0.93,0.94,0.9,0.05,0.2,0.1,0.0,0.95
+Music Is Pumping,People Underground,0.89,0.87,0.86,0.82,0.05,0.3,0.15,0.0,0.89
+Big Love,Pete Heller,0.91,0.88,0.89,0.83,0.05,0.25,0.1,0.0,0.91
+Can’t Get Enough!,Soulsearcher,0.92,0.89,0.91,0.85,0.05,0.22,0.1,0.0,0.93
+My Feeling,Junior Jack,0.9,0.88,0.87,0.84,0.05,0.3,0.12,0.0,0.91
+Sing It Back,Moloko,0.94,0.9,0.91,0.86,0.05,0.25,0.1,0.0,0.92
+Gotta Let You Go,Dominica,0.88,0.86,0.85,0.83,0.05,0.28,0.1,0.0,0.89
+Believe,Ministers de la Funk,0.9,0.88,0.89,0.84,0.05,0.25,0.15,0.0,0.91
+World Hold On (Children of the Sky),Bob Sinclar,0.92,0.89,0.91,0.87,0.05,0.22,0.1,0.0,0.93
+Let Me Think About It,Ida Corr,0.94,0.91,0.92,0.88,0.05,0.2,0.1,0.0,0.93
+Where’s Your Head At,Basement Jaxx,0.91,0.88,0.89,0.86,0.05,0.25,0.1,0.0,0.91
+Lola’s Theme,The Shapeshifters,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.94
+Call On Me,Eric Prydz,0.96,0.93,0.94,0.9,0.05,0.22,0.1,0.0,0.95
+So Many Times,Gadjo,0.88,0.86,0.85,0.82,0.05,0.25,0.15,0.0,0.89
+It Just Won’t Do,Tim Deluxe,0.89,0.87,0.88,0.83,0.05,0.28,0.1,0.0,0.9
+One More Time,Daft Punk,0.97,0.94,0.95,0.91,0.05,0.2,0.1,0.0,0.96
+Feel My Needs,WEISS,0.9,0.88,0.87,0.83,0.05,0.25,0.15,0.0,0.89
+At Night,Shakedown,0.91,0.89,0.9,0.84,0.05,0.22,0.1,0.0,0.91
+I Adore You,HUGEL,0.88,0.86,0.85,0.82,0.05,0.3,0.1,0.0,0.88
+Deep Down,Alok,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Waiting for Tonight,Jennifer Lopez,0.95,0.92,0.94,0.89,0.05,0.2,0.1,0.0,0.94
+La Danza,John Summit,0.92,0.9,0.91,0.86,0.05,0.28,0.1,0.0,0.92
+The Cure & The Cause,Fish Go Deep,0.88,0.86,0.85,0.83,0.05,0.3,0.15,0.0,0.89
+Finally,Kings Of Tomorrow,0.91,0.88,0.89,0.85,0.05,0.22,0.1,0.0,0.91
+Yeah The Girls,FISHER,0.92,0.89,0.91,0.87,0.05,0.25,0.1,0.0,0.92
+La Musa,Jamie Jones,0.89,0.87,0.86,0.84,0.05,0.3,0.15,0.0,0.89
+Push The Feeling On,Nightcrawlers,0.94,0.91,0.92,0.88,0.05,0.2,0.1,0.0,0.93
+God Made Me Phunky,MD X-Spress,0.9,0.88,0.89,0.85,0.05,0.25,0.15,0.0,0.91
+Big Fun,Inner City,0.93,0.89,0.91,0.8,0.05,0.25,0.1,0.0,0.92
+French Kiss,Lil’ Louis,0.9,0.88,0.89,0.7,0.06,0.3,0.12,0.0,0.9
+Pacific State,808 State,0.88,0.82,0.84,0.78,0.05,0.2,0.18,0.0,0.88
+Voodoo Ray,A Guy Called Gerald,0.85,0.83,0.86,0.75,0.04,0.25,0.2,0.0,0.85
+Strings Of Life,Derrick May,0.9,0.87,0.89,0.79,0.05,0.3,0.15,0.0,0.91
+Go,Moby,0.89,0.85,0.84,0.76,0.04,0.25,0.2,0.0,0.87
+Can You Feel It,Mr. Fingers,0.92,0.89,0.9,0.8,0.04,0.22,0.1,0.0,0.91
+House Nation,The Housemaster Boyz,0.9,0.87,0.88,0.82,0.05,0.3,0.12,0.0,0.89
+Don’t Go,Awesome 3,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.89
+Let The Music Use You,The Nightwriters,0.91,0.88,0.89,0.84,0.05,0.28,0.15,0.0,0.91
+Beautiful People,Barbara Tucker,0.92,0.89,0.9,0.86,0.05,0.25,0.12,0.0,0.91
+The Nighttrain,Kadoc,0.9,0.88,0.87,0.84,0.05,0.3,0.15,0.0,0.9
+Passion,Gat Decor,0.94,0.9,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+Give Me Luv,Alcatraz,0.91,0.89,0.9,0.85,0.05,0.3,0.12,0.0,0.91
+I Feel It,Armand Van Helden,0.93,0.9,0.91,0.86,0.05,0.25,0.1,0.0,0.92
+Where Love Lives,Alison Limerick,0.94,0.91,0.92,0.88,0.05,0.2,0.1,0.0,0.94
+Revolution 909,Daft Punk,0.95,0.92,0.93,0.89,0.05,0.22,0.1,0.0,0.95
+Throw,Paperclip People,0.88,0.86,0.85,0.83,0.05,0.3,0.15,0.0,0.89
+Didn’t I Give You Love,Luvspunge,0.9,0.88,0.87,0.84,0.05,0.25,0.1,0.0,0.9
+Hot,Ideal,0.89,0.87,0.88,0.83,0.05,0.28,0.1,0.0,0.89
+Give It Up,The Good Men,0.88,0.86,0.85,0.82,0.05,0.25,0.15,0.0,0.88
+Energy Flash,Joey Beltram,0.9,0.88,0.87,0.84,0.05,0.3,0.1,0.0,0.9
+Bounce 2 The Beat,Todd Terry,0.91,0.89,0.9,0.85,0.05,0.22,0.1,0.0,0.91
+Samba Magic,Basement Jaxx,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Heaven,DJ Sammy,0.92,0.89,0.9,0.87,0.05,0.28,0.12,0.0,0.91
+Call On Me,Eric Prydz,0.96,0.93,0.94,0.9,0.05,0.2,0.1,0.0,0.95
+Something,Lasgo,0.89,0.87,0.88,0.85,0.05,0.3,0.1,0.0,0.89
+Sandstorm,Darude,0.94,0.91,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+In A Dream,Rockell,0.88,0.86,0.85,0.82,0.05,0.25,0.12,0.0,0.88
+This Is Your Night,Amber,0.91,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+House Is A Feeling,Tommy Capretto,0.89,0.87,0.88,0.84,0.05,0.25,0.1,0.0,0.89
+Into My Life,Mark Knight,0.91,0.88,0.89,0.86,0.05,0.22,0.12,0.0,0.91
+Otto’s Chant,Skream,0.9,0.88,0.87,0.84,0.05,0.3,0.1,0.0,0.9
+Roses,SAINt JHN,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Eyes on Fire,Blue Foundation,0.88,0.86,0.85,0.82,0.05,0.3,0.12,0.0,0.88
+What a Bam,Guille Placencia,0.89,0.87,0.88,0.84,0.05,0.25,0.1,0.0,0.89
+Devil’s Candy,Michael Bibi,0.92,0.89,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+White Noise,Disclosure,0.94,0.91,0.92,0.88,0.05,0.2,0.1,0.0,0.93
+Sun Goes Down,Cloonee,0.88,0.86,0.85,0.83,0.05,0.3,0.12,0.0,0.88
+House & Pressure,Route 94,0.9,0.88,0.87,0.84,0.05,0.25,0.1,0.0,0.9
+I’ll House You,Jungle Brothers,0.92,0.89,0.91,0.83,0.05,0.3,0.1,0.0,0.91
+Moody,ESG,0.88,0.86,0.85,0.82,0.05,0.28,0.15,0.0,0.88
+Devotion,Ten City,0.9,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.9
+Bango (To the Batmobile),The Todd Terry Project,0.91,0.89,0.9,0.85,0.05,0.22,0.1,0.0,0.91
+Deep In Vogue,Malcolm McLaren,0.88,0.87,0.86,0.83,0.05,0.3,0.12,0.0,0.89
+Can You Party,Royal House,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Come into My House,Queen Latifah,0.9,0.88,0.87,0.84,0.05,0.28,0.1,0.0,0.9
+You Used to Hold Me,Ralphi Rosario,0.92,0.89,0.91,0.85,0.05,0.25,0.1,0.0,0.91
+Notice Me,Sandee,0.88,0.86,0.85,0.83,0.05,0.3,0.12,0.0,0.88
+Reachin’,Phase II,0.91,0.88,0.89,0.85,0.05,0.22,0.1,0.0,0.91
+Can You Feel It,Mr. Fingers,0.92,0.89,0.9,0.8,0.04,0.22,0.1,0.0,0.91
+French Kiss,Lil’ Louis,0.9,0.88,0.89,0.7,0.06,0.3,0.12,0.0,0.9
+Deep Inside,Hardrive,0.88,0.86,0.85,0.82,0.05,0.3,0.15,0.0,0.88
+It’s Alright I Feel It,Nuyorican Soul,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Tears,Frankie Knuckles,0.92,0.89,0.91,0.85,0.05,0.22,0.1,0.0,0.91
+Promised Land,Joe Smooth,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+APT.3A,N.Y. House’n Authority,0.88,0.86,0.85,0.82,0.05,0.3,0.15,0.0,0.88
+Let’s Go,Fast Eddie,0.89,0.87,0.88,0.83,0.05,0.25,0.1,0.0,0.89
+Music Is the Answer,Colonel Abrams,0.91,0.88,0.89,0.84,0.05,0.3,0.12,0.0,0.91
+Angel Eyes,Lime,0.88,0.86,0.85,0.82,0.05,0.28,0.1,0.0,0.88
+Hello,Martin Solveig,0.95,0.92,0.94,0.89,0.05,0.22,0.1,0.0,0.94
+Blind,Hercules & Love Affair,0.89,0.87,0.88,0.85,0.05,0.3,0.1,0.0,0.89
+Feelin’ Hypnotized,Colette,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+Only in New York,Demon Ritchie,0.91,0.88,0.89,0.84,0.05,0.3,0.12,0.0,0.91
+A Day in the Life,Black Riot,0.88,0.86,0.85,0.82,0.05,0.28,0.15,0.0,0.88
+Cross the Dancefloor,Treasure Fingers,0.94,0.91,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+Party People,Todd Terry,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.92
+Wednesday Night People,Moodymann,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+Frank Sinatra 2001,Miss Kittin,0.89,0.87,0.88,0.85,0.05,0.3,0.1,0.0,0.89
+New York House,Jellybean,0.91,0.88,0.89,0.84,0.05,0.3,0.12,0.0,0.91
+New York Is Alright,TV Baby,0.88,0.86,0.85,0.82,0.05,0.28,0.15,0.0,0.88
+The Ghetto,Donny Hathaway,0.91,0.88,0.89,0.84,0.05,0.3,0.12,0.0,0.91
+The Warning,Logic,0.92,0.89,0.91,0.85,0.05,0.22,0.1,0.0,0.92
+The Cure & The Cause,Fish Go Deep,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Can’t Stop,Kings Of Tomorrow,0.89,0.87,0.88,0.85,0.05,0.3,0.1,0.0,0.89
+NYC Beat,Armand Van Helden,0.94,0.91,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+The Renegade,Friend Within,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.92
+It’s Yours,Jon Culter,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+To Be In Love,Masters At Work,0.94,0.91,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+Sunday Shoutin’,Johnny Corporate,0.88,0.86,0.85,0.82,0.05,0.28,0.15,0.0,0.88
+Good Life,Inner City,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+Just Buggin’,Fast Eddie,0.91,0.89,0.9,0.85,0.05,0.22,0.1,0.0,0.91
+It’s A Cold World,Frankie Knuckles,0.92,0.89,0.91,0.85,0.05,0.3,0.12,0.0,0.92
+Your Only Friend,Phuture,0.88,0.86,0.85,0.82,0.05,0.28,0.15,0.0,0.88
+In A Vision,Virgo Four,0.89,0.87,0.88,0.83,0.05,0.25,0.1,0.0,0.89
+Somebody New,MK,0.94,0.91,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+Technicolor,Channel One,0.88,0.86,0.85,0.82,0.05,0.3,0.12,0.0,0.88
+Triangle Of Love,K-Reem,0.91,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.91
+Mood,Symbols And Instruments,0.89,0.87,0.88,0.85,0.05,0.3,0.1,0.0,0.89
+What About This Love?,Mr.Fingers,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.91
+I Can’t Kick This Feeling When It Hits,Moodymann,0.91,0.88,0.89,0.84,0.05,0.22,0.12,0.0,0.91
+I’m Lonely,Hollis P. Monroe,0.88,0.86,0.85,0.83,0.05,0.28,0.1,0.0,0.88
+See U No Mo,DJ Godfather,0.92,0.89,0.91,0.85,0.05,0.25,0.1,0.0,0.92
+Only Love Can Break Your Heart,Saint Etienne,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+My Joy,Quentin Harris,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+Throw Your Hands Up,313 Bass Mechanics,0.89,0.87,0.88,0.85,0.05,0.28,0.1,0.0,0.89
+That Man (He’s All Mine),Inner City,0.91,0.88,0.89,0.84,0.05,0.22,0.1,0.0,0.91
+Missing You,Larry Heard,0.92,0.89,0.91,0.85,0.05,0.25,0.1,0.0,0.92
+Workout,Frankie Knuckles,0.94,0.91,0.92,0.88,0.05,0.22,0.1,0.0,0.93
+Closer,Mr. Fingers,0.88,0.86,0.85,0.82,0.05,0.3,0.12,0.0,0.88
+Hi-tech Jazz,Galaxy 2 Galaxy,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.92
+Traveling,Quentin Harris,0.89,0.87,0.88,0.85,0.05,0.25,0.1,0.0,0.89
+Don’t You Want My Love,Moodymann,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+Is It Cool,Andres,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+A Walk in the Park,DJ Minx,0.91,0.88,0.89,0.84,0.05,0.28,0.1,0.0,0.91
+Lake Shore Drive,Theo Parrish,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+Momma’s Groove,Osunlade,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.92
+Down,Aaron Carl,0.89,0.87,0.88,0.85,0.05,0.25,0.1,0.0,0.89
+Love’s Got Me High,Terrence Parker,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+My Soul My Spirit,Mike Grant,0.88,0.86,0.85,0.82,0.05,0.28,0.1,0.0,0.88
+Just A Player,Andres,0.91,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.91
+Shinjuku Strut,Rick Wade,0.88,0.86,0.85,0.83,0.05,0.3,0.1,0.0,0.88
+Lyk U Use 2,Moodymann,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.92
+Twisted Disco 77,Terrence Parker,0.89,0.87,0.88,0.85,0.05,0.25,0.1,0.0,0.89
+L.O.V.E,Motor City Drum Ensemble,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+I Just Wanna Tell,Waajeed,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+You Want Me (Never),Marcellus Pittman,0.91,0.88,0.89,0.84,0.05,0.28,0.1,0.0,0.91
+Shake a Lil Faster,Detroit In Effect,0.92,0.89,0.91,0.85,0.05,0.28,0.1,0.0,0.92
+Track 39,LADYMONIX,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+The Break Up,Dam Swindle,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+The Groove That Won’t Stop,Kevin Saunderson,0.94,0.91,0.92,0.87,0.05,0.3,0.1,0.0,0.93
+I’m Strong,Robert Owens,0.92,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+The Chase,Model 500,0.91,0.88,0.89,0.84,0.05,0.3,0.15,0.0,0.91
+Industrial Bass,Project “86”,0.89,0.86,0.85,0.83,0.05,0.28,0.12,0.0,0.88
+Night In Motion,Cubic 22,0.88,0.85,0.84,0.8,0.05,0.27,0.1,0.0,0.87
+Preacher Man,Green Velvet,0.93,0.9,0.91,0.86,0.05,0.3,0.12,0.0,0.92
+Flash,Fix,0.91,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.9
+Vamp,Outlander,0.92,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+Plastic Dreams,Jaydee,0.94,0.92,0.93,0.88,0.05,0.3,0.1,0.0,0.94
+Mental Breakdown,Phuture,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.9
+Energy Flash,Joey Beltram,0.92,0.89,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+LFO,LFO,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Jam the Mace,House Syndicate,0.91,0.88,0.89,0.84,0.05,0.25,0.12,0.0,0.9
+The Warning,Logic,0.92,0.89,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+We Are Phuture,Phuture,0.93,0.9,0.91,0.86,0.05,0.28,0.1,0.0,0.92
+I Believe,Octave One,0.91,0.88,0.89,0.85,0.05,0.3,0.12,0.0,0.9
+Turn Up The Bass,Tyree Cooper,0.92,0.9,0.91,0.86,0.05,0.25,0.1,0.0,0.91
+Yoyo Get Funky,Fast Eddie,0.94,0.91,0.92,0.88,0.05,0.3,0.12,0.0,0.93
+100% of Dissin You,Armando,0.91,0.88,0.89,0.84,0.05,0.28,0.1,0.0,0.9
+Call It Techno,Frankie Bones,0.88,0.86,0.85,0.82,0.05,0.27,0.1,0.0,0.88
+Meine,Daso,0.92,0.89,0.91,0.87,0.05,0.25,0.12,0.0,0.92
+The Setup,Moodymann,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+Square 1,Paul Kalkbrenner,0.93,0.9,0.91,0.86,0.05,0.28,0.1,0.0,0.92
+Cornflake Boy,Marbert Rocel,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+Lila,Rodriguez Jr.,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.91
+Silent Drop,Dosem,0.92,0.89,0.91,0.86,0.05,0.27,0.1,0.0,0.92
+Some Sweat,Sascha Braemer,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+The Difference It Makes,The MFA,0.92,0.89,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Subzero,Ben Klock,0.93,0.9,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+[Logo],Moodymann,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.91
+Return It,Kim Ann Foxman,0.92,0.89,0.91,0.86,0.05,0.28,0.1,0.0,0.92
+Empty Floor,Jan Blomqvist,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.91
+Foreign Language,Flight Facilities,0.92,0.89,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Der Buhold,Paul Kalkbrenner,0.93,0.9,0.91,0.86,0.05,0.25,0.1,0.0,0.93
+Chez A. Untitled,Chez Damier,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Farther And Fainter,John Tejada,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.91
+Say It,Matt Karmil,0.92,0.89,0.91,0.87,0.05,0.25,0.1,0.0,0.92
+Fabric Softener,Vin Sol,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.91
+Element,Palace,0.92,0.89,0.91,0.86,0.05,0.25,0.1,0.0,0.92
+Signs,Howling,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.91
+Mourir sur scène,Dalida,0.9,0.85,0.86,0.8,0.05,0.2,0.12,0.0,0.87
+Paris Latino,Bandolero,0.92,0.88,0.9,0.84,0.05,0.25,0.1,0.0,0.91
+Deep in Vogue,Malcolm McLaren,0.91,0.87,0.88,0.82,0.05,0.28,0.1,0.0,0.9
+She Can’t Love You,Chemise,0.88,0.86,0.85,0.8,0.05,0.25,0.1,0.0,0.88
+Talkin’ All That Jazz,Stetsasonic,0.91,0.89,0.9,0.84,0.05,0.27,0.1,0.0,0.9
+Ride on Time,Black Box,0.96,0.91,0.92,0.85,0.05,0.3,0.1,0.0,0.95
+Paradis,Alain Chamfort,0.88,0.85,0.84,0.8,0.05,0.22,0.1,0.0,0.87
+Is It All Over My Face?,Loose Joints,0.92,0.9,0.91,0.87,0.05,0.28,0.1,0.0,0.93
+A.I.E.,La Compagnie Créole,0.89,0.87,0.88,0.83,0.05,0.3,0.15,0.0,0.88
+Smalltown Boy (Arnaud Rebotini Remix),Bronski Beat,0.91,0.88,0.89,0.84,0.05,0.27,0.1,0.0,0.9
+Feeling for You,Cassius,0.92,0.89,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Pasilda,Afro Medusa,0.94,0.9,0.92,0.86,0.05,0.28,0.1,0.0,0.93
+The Bomb (These Sounds Fall Into My Mind),The Bucketheads,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.9
+Get Get Down,Paul Johnson,0.93,0.9,0.92,0.87,0.05,0.25,0.1,0.0,0.92
+Push The Feeling On,Nightcrawlers,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Now or Never,Tom Novy,0.88,0.86,0.85,0.83,0.05,0.3,0.12,0.0,0.88
+Lucky Star,Superfunk,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+You Are My High,Demon,0.92,0.89,0.91,0.86,0.05,0.25,0.1,0.0,0.92
+Prix choc,Étienne de Crécy,0.93,0.9,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+It’s a Rainy Day,Ice Mc,0.89,0.86,0.87,0.82,0.05,0.25,0.1,0.0,0.88
+D.A.N.C.E,Justice,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Veridis Quo,Daft Punk,0.95,0.92,0.93,0.9,0.05,0.28,0.1,0.0,0.94
+Acknowledgement,Modjo,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Toop Toop,Cassius,0.92,0.89,0.91,0.87,0.05,0.25,0.1,0.0,0.92
+Glamour Girl,Louie Austen,0.88,0.86,0.85,0.82,0.05,0.28,0.1,0.0,0.88
+Frank Sinatra 2001,Miss Kittin,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Boogie No More,Richard Dorfmeister,0.92,0.89,0.91,0.86,0.05,0.28,0.1,0.0,0.92
+Poison Lips,Vitalic,0.93,0.9,0.92,0.87,0.05,0.3,0.12,0.0,0.93
+A New Error,Moderat,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.94
+Pocket Piano,DJ Mehdi,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+Lovin’ Feeling,French 79,0.92,0.89,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Paris City Jazz,Bellaire,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.91
+SHE,The Blaze,0.93,0.9,0.92,0.88,0.05,0.25,0.1,0.0,0.92
+Feel Your Weight,Rhye,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+Kongo,Kolinga,0.92,0.89,0.91,0.86,0.05,0.3,0.1,0.0,0.92
+Paradis bleu,Revers Gagnant,0.91,0.88,0.89,0.84,0.05,0.28,0.1,0.0,0.91
+Alors on Danse,Stromae,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Hot Hands,Darius,0.92,0.89,0.91,0.86,0.05,0.27,0.1,0.0,0.92
+Toi Et Moi,Paradis,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.93
+Be Mine,Ofenbach,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Ain’t Nobody Better,Inner City,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Back To Life,Soul II Soul,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Just Keep Rockin,Double Trouble,0.88,0.86,0.85,0.82,0.05,0.25,0.12,0.0,0.88
+My Love Is Magic,Bäs Noir,0.89,0.87,0.88,0.83,0.05,0.28,0.1,0.0,0.88
+Devotion,Ten City,0.9,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.9
+Yeah Buddy,Royal House,0.91,0.89,0.9,0.85,0.05,0.27,0.1,0.0,0.91
+Get Busy,Mr. Lee,0.88,0.86,0.85,0.83,0.05,0.3,0.1,0.0,0.87
+I’ll House You,Jungle Brothers,0.92,0.89,0.91,0.85,0.05,0.25,0.12,0.0,0.91
+I’m Glad You Came To Me,Bäs Noir,0.89,0.87,0.88,0.82,0.05,0.28,0.1,0.0,0.88
+Love House,Samantha Fox,0.9,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.9
+Friendly Pressure,Jhelisa,0.91,0.89,0.9,0.86,0.05,0.28,0.12,0.0,0.91
+Bounce to the Beat,Todd Terry,0.92,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+House of Love,Smooth Touch,0.91,0.88,0.89,0.84,0.05,0.27,0.1,0.0,0.9
+Throw Ya Hands Up,Ground 96,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+RIP Groove,Double 99,0.91,0.88,0.89,0.84,0.05,0.3,0.12,0.0,0.9
+Dancing For Heaven,Todd Edwards,0.92,0.9,0.91,0.86,0.05,0.27,0.1,0.0,0.91
+Get Down We Can Get Down,Groove Chronicles,0.93,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.92
+Movin Too Fast,Romina Johnson,0.91,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.9
+Burning,MK,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+A Little Bit Of Luck,DJ Luck & MC Neat,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Love Eviction,Quartzlock,0.9,0.88,0.89,0.83,0.05,0.25,0.1,0.0,0.9
+Attention!,Commander Tom,0.91,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+Sensitivity,The Shapeshifters,0.92,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Pump It Up,Danzel,0.93,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.92
+You’re The Reason,Wamdue Project,0.92,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+Get Down,Jungle Brothers,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.9
+Shut The Door,Todd Edwards,0.92,0.9,0.91,0.86,0.05,0.28,0.1,0.0,0.91
+Bonkers,Dizzee Rascal,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Just Dance (Richard Vission Remix),Lady Gaga,0.96,0.93,0.94,0.9,0.05,0.25,0.1,0.0,0.95
+Why Can’t You Free Some Time,Armand Van Helden,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+White Noise,Disclosure,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Feel My Needs,WEISS,0.92,0.89,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+My Love,Route 94,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Fake ID,Riton,0.92,0.89,0.91,0.86,0.05,0.28,0.1,0.0,0.91
+Say Something (Zac Samuel Remix),Karen Harding,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Young World,A.D.O.R,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+When A Fire Starts To Burn,Disclosure,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+How Deep Is Your Love,Calvin Harris,0.92,0.89,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Upside Down,Eats Everything,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.9
+Too Much For Me,SELKER,0.88,0.86,0.85,0.82,0.05,0.28,0.1,0.0,0.88
+Let Love Rule (Justice Remix),Lenny Kravitz,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Fascinated,Company B,0.91,0.88,0.89,0.84,0.05,0.28,0.1,0.0,0.9
+So Glad,Fingers Inc.,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+Angel Eyes,Lime,0.9,0.87,0.88,0.82,0.05,0.25,0.12,0.0,0.89
+Ma quale idea,Pino D’Angiò,0.88,0.85,0.86,0.8,0.05,0.22,0.1,0.0,0.88
+Mutante,Rita Lee,0.87,0.83,0.84,0.78,0.05,0.2,0.15,0.0,0.86
+Your Love,Frankie Knuckles,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Toros,Raul Orellana,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Madrugada Eterna,The KLF,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+Atewo-Lara Ka Tepa Mo’se,Segun Adewale,0.88,0.86,0.85,0.82,0.05,0.3,0.12,0.0,0.88
+Better Off Alone,Alice Deejay,0.95,0.92,0.93,0.9,0.05,0.28,0.1,0.0,0.94
+Turn It Around,Alena,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Samba de Janeiro,Bellini,0.94,0.91,0.92,0.88,0.05,0.27,0.1,0.0,0.93
+La Mezcla,Michel Cleis,0.92,0.89,0.91,0.87,0.05,0.3,0.12,0.0,0.92
+Remember Me,Blue Boy,0.9,0.88,0.89,0.83,0.05,0.28,0.1,0.0,0.89
+Jumpin’ Jumpin’,Destiny’s Child,0.94,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Sing It Back,Moloko,0.92,0.89,0.91,0.86,0.05,0.28,0.1,0.0,0.91
+Quando Te Veo,Mo’ Horizons,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Around the World,Daft Punk,0.96,0.94,0.95,0.92,0.05,0.3,0.1,0.0,0.95
+Making A Living,Lee Rodriguez,0.88,0.86,0.85,0.8,0.05,0.25,0.1,0.0,0.88
+Mr. Saxobeat,Alexandra Stan,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+I’m Not Alone,Calvin Harris,0.96,0.93,0.94,0.9,0.05,0.25,0.1,0.0,0.95
+Calabria 2007,Enur,0.93,0.9,0.91,0.86,0.05,0.3,0.1,0.0,0.92
+Guilty,De Souza,0.92,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+Not Enough,Roger Sanchez,0.91,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.9
+Bring the Noise,Public Enemy,0.93,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Soy yo,Bomba Estéreo,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.9
+On The Floor,Jennifer Lopez,0.95,0.92,0.93,0.9,0.05,0.28,0.1,0.0,0.94
+Yo Voy,Zion & Lennox,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Temperature,Sean Paul,0.94,0.92,0.93,0.89,0.05,0.3,0.1,0.0,0.94
+ADD SUV,Uffie,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Be Mine,Ofenbach,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Beam Me Up,Midnght Magic,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+Magalenha,Simon Fava,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.9
+Electricity,Silk City,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Hideaway,Kiesza,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Feel So Close,Calvin Harris,0.96,0.93,0.94,0.9,0.05,0.25,0.1,0.0,0.95
+Inspector Norse,Todd Terje,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Five More Hours,Deorro,0.91,0.88,0.89,0.84,0.05,0.25,0.1,0.0,0.9
+Greyhound,Swedish House Mafia,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Dreamer,Livin’ Joy,0.94,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+You Don’t Know Me,Armand Van Helden,0.92,0.89,0.9,0.86,0.05,0.28,0.12,0.0,0.91
+Don’t Give Me Your Life,Alex Party,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Welcome to Tomorrow (Are You Ready),SNAP!,0.93,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Ecuador,Sash!,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+I Like To Move It,Reel 2 Real,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+King Of My Castle,Wamdue Project,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+Pump Up The Jam,Technotronic,0.96,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.95
+Get Up (Before The Night Is Over),Technotronic,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Venus,Bananarama,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.9
+Boom Boom Boom Boom!,Vengaboys,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+1999,Prince,0.96,0.94,0.95,0.93,0.05,0.3,0.1,0.0,0.95
+Bla Bla Bla,Gigi D’Agostino,0.92,0.89,0.9,0.85,0.05,0.27,0.1,0.0,0.91
+Around the World,Daft Punk,0.96,0.93,0.94,0.92,0.05,0.3,0.1,0.0,0.95
+That’s the Way It Is,Mel & Kim,0.91,0.88,0.89,0.86,0.05,0.25,0.1,0.0,0.9
+The Nighttrain,Kadoc,0.92,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Cheri Cheri Lady,Modern Talking,0.88,0.86,0.85,0.82,0.05,0.28,0.1,0.0,0.88
+I Don’t Know Anybody Else,8,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Need You Tonight,INXS,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Hot Water,Level 42,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Wena Ng’hamba Nawe,DJ Cleo,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Sweety Ma Baby,Brickz,0.93,0.9,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Sister Bethina,Mgarimbe,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Superman,Black Coffee,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+We Dance Again,Black Coffee,0.93,0.9,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Club Controller,Prince Kaybee,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Kwela Kwela,Mafikizolo,0.92,0.89,0.9,0.86,0.05,0.3,0.12,0.0,0.91
+Buya,Black Coffee,0.93,0.9,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Moving on Up,M People,0.94,0.91,0.92,0.88,0.05,0.25,0.1,0.0,0.93
+No Limit,2 Unlimited,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Osisi Bendawo,Big Nuz,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Fairytale,Farah,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+In Common,Alicia Keys,0.92,0.89,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Wish You Were Here,Black Coffee,0.93,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+My Dali,TNS,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Sondela,TRESOR,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Fetch Your Life,Prince Kaybee,0.93,0.9,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Your Eyes,Hart & Neenan,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Drummotions,Caiiro,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+Inde,Heavy-K,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Midas Touch,Midnight Star,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Stomp!,The Brother’s Johnson,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Ride on Time,Black Box,0.96,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.95
+Last Night a D.J Saved My Life,Indeep,0.92,0.89,0.9,0.87,0.05,0.3,0.12,0.0,0.91
+I Need Your Lovin’,Teena Marie,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+The Perfect Kiss,New Order,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Move This,Technotronic,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Hip Hop Be Bop,Man Parrish,0.92,0.89,0.9,0.87,0.05,0.3,0.12,0.0,0.91
+Dirty Cash (Money Talks),The Adventures of Stevie V,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Sensation,Ron Hardy,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Show Me Love,Robin S,0.96,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.95
+Missing (Todd Terry Mix),Everything But The Girl,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Percolator,Cajmere,0.93,0.9,0.91,0.87,0.05,0.3,0.12,0.0,0.92
+Gypsy Woman (She’s Homeless),Crystal Waters,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Dreamer,Livin’ Joy,0.94,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Take Me in Your Arms,Lil Suzy,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Finally,CeCe Peniston,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+The Whistle Song,Frankie Knuckles,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Too Hot For Love,Stacey Q,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Good Vibrations,Marky Mark and the Funky Bunch,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Lady (Hear Me Tonight),Modjo,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Be Your Girl,Teedra Moses,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Somethin’ Here,Terrence Parker,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Dancin,Aaron Smith,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Blackwater,Octave One,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Tell Me Why,Supermode,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.92
+Lola’s Theme,The Shapeshifters,0.94,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+The Sun Can’t Compare,Larry Heard,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+So Many Times,Gadjo,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+At Night,Shakedown,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Brighter Days,Cajmere,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.92
+Raingurl,Yaeji,0.93,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Topdown,Channel Tres,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+My Forbidden Lover,Tapps,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+ADD SUV,Uffie,0.88,0.86,0.85,0.82,0.05,0.3,0.1,0.0,0.88
+Paris City Jazz,Bellaire,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Something Here for the Club,Terrence Parker,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Yolanda,Reality,0.88,0.86,0.85,0.82,0.05,0.28,0.1,0.0,0.88
+Move Your Body,Marshall Jefferson,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Doin’ Ya Thang,Oliver Dollar,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Funky Guitar,Tc 1992,0.92,0.89,0.9,0.85,0.05,0.3,0.1,0.0,0.91
+Dirty Cash (Money Talks),The Adventures Of Stevie V,0.93,0.9,0.91,0.88,0.05,0.3,0.12,0.0,0.92
+Is It All Over My Face?,Loose Joints,0.94,0.91,0.92,0.9,0.05,0.28,0.1,0.0,0.93
+Respect,Adeva,0.91,0.88,0.89,0.86,0.05,0.3,0.1,0.0,0.9
+Talkin’ All That Jazz,Stetsasonic,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Deep In Vogue,Malcolm McLaren,0.94,0.91,0.92,0.9,0.05,0.28,0.1,0.0,0.93
+Love Injection,Trussel,0.91,0.88,0.89,0.84,0.05,0.3,0.12,0.0,0.9
+Pull Up To The Bumper,Grace Jones,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+I Found Love In You,Rhyze,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Sweet Dreams (Are Made Of This),Eurythmics,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Let the Beat Go On,Dr. Alban,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Clubhopping,Rob n Raz,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Mutoid Waste,Magoria,0.88,0.86,0.85,0.82,0.05,0.27,0.1,0.0,0.88
+100% Pure Love,Crystal Waters,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Would I Lie to You,Adie,0.91,0.88,0.89,0.86,0.05,0.25,0.1,0.0,0.9
+Magic O,Terrace,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+AmokK,666,0.88,0.86,0.85,0.82,0.05,0.27,0.1,0.0,0.88
+Straight Up,Colonel Abrams,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Be My Lover,La Bouche,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Melodic Dreams,Arj Snoek,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+Tell Me Why,Supermode,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.92
+Hello,Martin Solveig,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Call On Me,Eric Prydz,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+You Don’t Know Me,Jax Jones,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Little Bit,Lykke Li,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Feel It In My Bones,Tiësto,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+Enjoy It Now,Tortured Soul,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Desire,Morris,0.91,0.88,0.89,0.85,0.05,0.25,0.1,0.0,0.9
+Pjanoo,Eric Prydz,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Baby When the Light,David Guetta,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Lovin’ Feeling,French 79,0.92,0.89,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Glue,BICEP,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+How Deep Is Your Love,Calvin Harris,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+HEAT,Tove Lo,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Finally,Swedish House Mafia,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Addicted To You,Avicii,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Don’t You Worry Child,Swedish House Mafia,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Check Out,J. Worra,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Beautiful People,Chris Brown,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Heroes (We Could Be),Alesso,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Sweet Mother,Prince Nico Mbarga,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Time Na Money,Mike Okri,0.91,0.88,0.89,0.86,0.05,0.28,0.1,0.0,0.9
+Bang Belly,Blackky,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.88
+Dancing In The Sun,Onyeka Onwenu,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+So Long,Majek Fashek,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Wonder Wonder,Femi Kuti,0.93,0.9,0.91,0.88,0.05,0.3,0.12,0.0,0.92
+Fall In Love,D’banj,0.94,0.91,0.92,0.9,0.05,0.28,0.1,0.0,0.93
+Ririovara (Dry Your Tears),Evi-Edna Ogholi,0.88,0.86,0.85,0.83,0.05,0.25,0.1,0.0,0.88
+Sakomo,Remedies,0.91,0.88,0.89,0.86,0.05,0.27,0.1,0.0,0.9
+My Sweety My Sugar (Let Me Love You),Bunny Mack,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Olufunmi,Styl-Plus,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Ego,Djinee,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+You Bad,Wande Coal,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+Kpolongo,Danfo Drivers,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Osondi Owendi,Mc Loph,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Ijoya,Weird MC,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Kukere,Iyanya,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Ara,Brymo,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Kolomental,Faze,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Oyi,Flavour,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+Ada Ada,Flavour,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Personally,P Square,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Remember Last Night,Kondo,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+African Queen,2Baba,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+See Me So,2Face,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+No One Like U,P-Square,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+We Don’t Care,Audio Bullys,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Kedu America-Greetings From America,Chief Stephen Osita Osadebe,0.88,0.85,0.84,0.8,0.05,0.3,0.1,0.0,0.86
+My Dear,Musiliu Haruna Ishola,0.88,0.85,0.84,0.8,0.05,0.3,0.1,0.0,0.86
+Super Afro,Culoe De Song,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Pasilda,Afro Medusa,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Move,Adam Port,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Yamore,MoBlack,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Jump,Levi,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.91
+Relax My Eyes,ANOTR,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+The Rapture Pt.III,&ME,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+DO 4 LOVE,Snoh Aalegra,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+A Fire Inside Of Me,Lucas Dekker,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Kongo,Kolinga,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Alegria,ARYMÉ,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+I’ll House You,Jungle Brothers,0.92,0.89,0.9,0.85,0.05,0.28,0.1,0.0,0.91
+Estrelar,Marcos Valle,0.91,0.88,0.89,0.84,0.05,0.3,0.1,0.0,0.9
+Do You Wanna Dance,Bad Boy Orchestra,0.88,0.86,0.85,0.8,0.05,0.25,0.1,0.0,0.88
+Mas Que Nada,Luis Gonzales Compania,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Hungry For Your Love,Hanson & Davis,0.91,0.88,0.89,0.86,0.05,0.28,0.1,0.0,0.9
+Dreamin’,Will To Power,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Virgencita,Johnny Pacheco,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Parapapapapa,La Banda Musica,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.87
+Azul,Gal Costa,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Al - Naafyish,Hashim,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Quien Tu Te Crees?,BCN Orchestra,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Pasilda,Afro Medusa,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Tiburon,Proyecto Uno,0.93,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Samba de Janeiro,Bellini,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Robi-Rob’s Boriqua Anthem,El General,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Esa Morena,Dj Laz,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Tumba La Casa,Sancocho,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Do You Miss Me,Jocelyn Enriquez,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+El Trago,2 In A Room,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Boom Boom Boom,The Outhere Brothers,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Release Me,Angelina,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Latinos,Proyecto Uno,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+The Bomb!,The Bucketheads,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Mami El Negro,Dj Laz,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+La Novela,Fulanito,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Set U Free,Planet Soul,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Wiggle It,2 In A Room,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Short Short Man,Gillette,0.88,0.85,0.84,0.8,0.05,0.25,0.1,0.0,0.86
+No Senor,Johnny Z,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Agua,DJ Lynnwood,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+I Don’t Need Your Love,Angelina,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+La Mezcla,Michel Cleis,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+Whatz Up Whatz Up,Playa Poncho,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Headbangers,DJ Trajic,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+In De Ghetto,David Morales,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.92
+Latin Swing,Johnny Z,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Muevelo,El General,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Guallando,Fulanito,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Cada Vez,Negrocan,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Boriqua Posse,Rare Arts,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Bring The Noise (Remix),Public Enemy,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+3 AM Eternal,The KLF,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Dirty Cash,The Adventures of Stevie V,0.92,0.89,0.9,0.86,0.05,0.3,0.12,0.0,0.91
+Moody,ESG,0.91,0.88,0.89,0.84,0.05,0.27,0.1,0.0,0.9
+I’m Not Gonna Let,Colonel Abrams,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Run To Paradise,Choirboys,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+That Was Your Mother,Paul Simon,0.88,0.85,0.84,0.8,0.05,0.25,0.1,0.0,0.86
+A.I.E,La Compagnie Creole,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Move Your Feet To The Rhythm Of The Beat,Hithouse,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Bring The Noise,Public Enemy,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Sandstorm,Darude,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Don’t Call Me Baby,Madison Avenue,0.91,0.88,0.89,0.86,0.05,0.27,0.1,0.0,0.9
+You Don’t Know Me,Armand Van Helden,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Meet Her At The Loverparade,Da Hool,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Sing It Back,Moloko,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Silence,Delerium,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Right Here Right Now,Fatboy Slim,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Born Slippy,Underworld,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+This Is Your Night,Amber,0.93,0.9,0.91,0.87,0.05,0.3,0.1,0.0,0.92
+Professional Widow,Tori Amos,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Be Your Girl,Teedra Moses,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Heads Will Roll,Yeah Yeah Yeahs,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Let Me Think About It,Ida Corr,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+The Weekend,Michael Gray,0.93,0.9,0.91,0.87,0.05,0.28,0.1,0.0,0.92
+Sweet Disposition,The Temper Trap,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Get Up (Rattle),Bingo Players,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+You Don’t Know Me,Jax Jones,0.94,0.91,0.92,0.88,0.05,0.28,0.1,0.0,0.93
+Rock This Party,Bob Sinclair,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+Where’s Your Head At,Basement Jaxx,0.94,0.91,0.92,0.89,0.05,0.28,0.1,0.0,0.93
+My My My,Armand Van Helden,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Fake ID,Riton,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Latch,Disclosure,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Sweet Nothing,Calvin Harris,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Freaks,Timmy Trumpet,0.93,0.9,0.91,0.88,0.05,0.28,0.1,0.0,0.92
+Take It,Dom Dolla,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Losing It,FISHER,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+212,Azealia Banks,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Raingurl,Yaeji,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Ride It,Regard,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Ocean Drive,Duke Dumont,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+El Viejo Del Sombrerón,La Sonora Dinamita,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Mentirosa,Rafaga,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Ojitos Mentirosos,Tropicalisimo Apache,0.88,0.86,0.85,0.82,0.05,0.25,0.1,0.0,0.87
+Sergio el Bailador,Bronco,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Lejanía,Lisandro Meza,0.89,0.86,0.85,0.82,0.05,0.27,0.1,0.0,0.88
+No Me Arrepiento de Este Amor,Gilda,0.92,0.89,0.9,0.88,0.05,0.3,0.1,0.0,0.91
+Qué Bello,Sonora Tropicana,0.91,0.88,0.89,0.86,0.05,0.3,0.1,0.0,0.9
+Yo Tomo Licor,Amar Azul,0.88,0.85,0.86,0.81,0.05,0.26,0.1,0.0,0.87
+Nunca Me Faltes,Antonio Rios,0.89,0.86,0.87,0.83,0.05,0.28,0.1,0.0,0.88
+El Soy Yo,Samuray,0.88,0.85,0.86,0.8,0.05,0.25,0.1,0.0,0.87
+Llorar,Los Socios Del Ritmo,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Tiene Espinas El Rosal,Grupo Canaveral De Humberto Pabon,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+El Liston De Tu Pelo,Los Angeles Azules,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Piensa En Mi,Grupo Mojado,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Baila Esta Cumbia,Selena,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Tao Tao,Control,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+El Diario De Un Borracho,Aniceto Molina,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Muchachita Consentida,Rayito Colombiano,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Juana La Cubana,Fito Olivares,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Los Caminos De La Vida,La Tropa Vallenata,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Como Te Voy A Olvidar,Los Angeles Azules,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Todo Me Gusta De Ti,Aaron,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Un Sueno,Los Angeles De Charly,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Cumbia De La Cobra,Fito Olivares,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Rumba Cha-Cha-Cha,Grupo Kual?,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+El Botecito,Los Hijos Del Pueblo,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Amor Regresa,Los Askis,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Guaracha Sabrosona,Alberto Pedraza,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Yo Soy Tu Maestro,Los Telez,0.88,0.86,0.85,0.8,0.05,0.25,0.1,0.0,0.87
+Felicidad,Los Socios Del Ritmo,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Nunca Es Suficiente,Los Angeles Azules,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Oye Mujer,Raymix,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Cumbia Sampuesana,La Luz Roja De San Marcos,0.91,0.88,0.89,0.85,0.05,0.3,0.1,0.0,0.9
+Tus Jefes No Me Quieren,Grupo Ensamble,0.88,0.86,0.85,0.8,0.05,0.25,0.1,0.0,0.87
+Que Te Vaya Bien,Grupo Jalado,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Que Bello,La Sonora Dinamita,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Donde Estaras,ICC,0.91,0.88,0.89,0.86,0.05,0.28,0.1,0.0,0.9
+No Me Llames Mas,Alcalde La Sonora,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+El Colesterol,Fito Olivares,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Amor A Primera Vista,Los Angeles Azules,0.94,0.91,0.92,0.89,0.05,0.3,0.1,0.0,0.93
+Mystery Of Love,Mr. Fingers,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Can You Feel It,Mr.Fingers,0.95,0.92,0.93,0.9,0.05,0.3,0.1,0.0,0.94
+Your Love,The Outfield,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Show Me Love,Robin S,0.96,0.93,0.94,0.9,0.05,0.3,0.1,0.0,0.95
+Everybody Everybody,Black Box,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Murder She Wrote,Chaka Demus & Pliers,0.92,0.89,0.9,0.86,0.05,0.27,0.1,0.0,0.9
+RIP Groove,Double 99,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+100% Pure Love,Crystal Waters,0.94,0.91,0.92,0.88,0.05,0.3,0.1,0.0,0.93
+Happening All Over Again,Lonnie Gordon,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Hey,Fatima Rainey,0.88,0.85,0.84,0.8,0.05,0.26,0.1,0.0,0.86
+Teardrops,Lovestation,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.9
+Shimmy Shake,740 Boyz,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+La La La Hey Hey,The Outhere Brothers,0.92,0.89,0.9,0.86,0.05,0.3,0.1,0.0,0.91
+Heaven Must Be Missing An Angel,Tavares,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+All Around the World,Lisa Stansfield,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+I Just Don’t Have the Heart,Cliff Richard,0.88,0.85,0.84,0.8,0.05,0.25,0.1,0.0,0.86
+You’ll Never Stop Me Loving You,Sonia,0.91,0.88,0.89,0.86,0.05,0.28,0.1,0.0,0.9
+Listen to Your Heart,Sonia,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+Gonna Make You Sweat (Everybody Dance Now),C & C Music Factory,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+Ride on Time,Black Box,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+What I Do Best,Salomé,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Not Too Shabby,Cerrone,0.91,0.88,0.89,0.86,0.05,0.27,0.1,0.0,0.9
+Two Can Play That Game,Bobby Brown,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Baby I Need Your Love,Debelah Morgan,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Destiny,Malaika,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Be Alone No More,Another Level,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+You’ll Never Know,Hi-Gloss,0.91,0.88,0.89,0.86,0.05,0.27,0.1,0.0,0.9
+Heavenly Sent,Mi Casa,0.93,0.9,0.91,0.88,0.05,0.3,0.1,0.0,0.92
+La Vida,Mi Casa,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Alone,Liquideep,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+iPlan,Dlala Thukzin,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Abalele,Kabza De Small,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Hamba Wena,Deep London,0.92,0.89,0.9,0.87,0.05,0.3,0.1,0.0,0.91
+The Boss,The Braxtons,0.91,0.88,0.89,0.85,0.05,0.27,0.1,0.0,0.9
+Jabba,HHP,0.91,0.88,0.89,0.85,0.05,0.28,0.1,0.0,0.9
+Why,Garth Taylor,0.88,0.85,0.84,0.8,0.05,0.25,0.1,0.0,0.86
+Music Sounds Better With You,Stardust,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
+My Love,Route 94,0.92,0.89,0.9,0.86,0.05,0.28,0.1,0.0,0.91
+Prayer in C,Lilly Wood and The Prick,0.92,0.89,0.9,0.87,0.05,0.28,0.1,0.0,0.91
+Hideaway,Kiesza,0.94,0.91,0.92,0.9,0.05,0.3,0.1,0.0,0.93
