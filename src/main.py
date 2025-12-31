@@ -1338,8 +1338,8 @@ def authenticate_spotify(cache_path=".spotify_token_cache"): #Function inspired 
     sp_oauth = SpotifyOAuth(
         scope="user-top-read playlist-read-private user-library-read playlist-modify-public playlist-modify-private",
         redirect_uri="https://localhost:8888/callback",
-        client_id="d29a6610c4e94f5db8316d43025e5ac4",
-        client_secret="14e827782b7e4bc3a07e5d50e633b843",
+        client_id= "FILL IN"
+        client_secret="FILL IN",
         cache_path=cache_path,
         open_browser=False
     )
